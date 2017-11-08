@@ -4,6 +4,8 @@ layout: default
 
 Network automation today is a continuous process of generating and deploying configuration changes, management, and operations of network devices. Whether you’re managing large or small deployments, it’s important to ensure consistency with other devices and reduce human error. With this practical ebook, network engineers will learn how easy it is to implement automation methodologies in a variety of multi-vendor networks.
 
+<img src="../images/network-automation-at-scale-cover.jpg" />
+
 Authors Mircea Ulinic and Seth House not only walk you through setup and installation, they also provide real-world usage examples—including several recipes that you can use as-is. Throughout the book, you’ll use the Salt configuration management platform, along with the NAPALM library, and the Jinja and YAML data representation languages.
 
 No knowledge of software development is required. If you have basic network engineering skills, all you need to get started is a system to install and use.
