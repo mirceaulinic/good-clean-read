@@ -47,4 +47,6 @@ Additionally, if you want to learn more about event-driven network automation an
 
 <!--End mc_embed_signup-->
 
+### Sharing is caring
+
 {% include sharing.html %}
