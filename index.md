@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Free eBook
-
 Network automation today is a continuous process of generating and deploying configuration changes, management, and operations of network devices. Whether you’re managing large or small deployments, it’s important to ensure consistency with other devices and reduce human error. With this practical ebook, network engineers will learn how easy it is to implement automation methodologies in a variety of multi-vendor networks.
 
 <img src="../images/network-automation-at-scale-cover.jpg" />
