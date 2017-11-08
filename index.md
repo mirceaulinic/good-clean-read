@@ -8,7 +8,7 @@ Network automation today is a continuous process of generating and deploying con
 
 <img src="../images/network-automation-at-scale-cover.jpg" />
 
-Authors `Mircea Ulinic <https://mirceaulinic.net/>`_ and `Seth House <http://eseth.org/>`_ not only walk you through setup and installation, they also provide real-world usage examples—including several recipes that you can use as-is. Throughout the book, you’ll use the Salt configuration management platform, along with the NAPALM library, and the Jinja and YAML data representation and template languages.
+Authors [Mircea Ulinic](https://mirceaulinic.net/) and [Seth House](http://eseth.org/) not only walk you through setup and installation, they also provide real-world usage examples—including several recipes that you can use as-is. Throughout the book, you’ll use the Salt configuration management platform, along with the NAPALM library, and the Jinja and YAML data representation and template languages.
 
 No knowledge of software development is required. If you have basic network engineering skills, all you need to get started is a system to install and use.
 
@@ -20,7 +20,9 @@ No knowledge of software development is required. If you have basic network engi
 - Explore Beacon modules and how they perform a variety of tasks by interacting with the event bus
 - Import external events or export Salt events with bidirectional engines
 
-You can download it from `this <https://www.cloudflare.com/network-automation-at-scale-ebook/>`_ page.
+You can download it from [this page](https://www.cloudflare.com/network-automation-at-scale-ebook/).
+
+### Email list
 
 Additionally, if you want to learn more about event-driven network automation and orchestration why not subscribe to this free course using the form below.
 
@@ -44,3 +46,5 @@ Additionally, if you want to learn more about event-driven network automation an
 </div>
 
 <!--End mc_embed_signup-->
+
+{% include sharing.html %}
