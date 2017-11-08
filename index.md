@@ -22,7 +22,7 @@ No knowledge of software development is required. If you have basic network engi
 
 You can download it from [this page](https://www.cloudflare.com/network-automation-at-scale-ebook/).
 
-### Email list
+### Join the mailing list
 
 Additionally, if you want to learn more about event-driven network automation and orchestration why not subscribe to this free course using the form below.
 
